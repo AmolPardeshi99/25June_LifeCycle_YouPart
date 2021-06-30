@@ -1,0 +1,2 @@
+rootProject.name = "25June_LifeCycle_YouPart"
+include ':app'
